@@ -2,7 +2,7 @@ SNORQL is an AJAXy front-end for exploring RDF SPARQL endpoints
 
 It was originally created by Richard Cyganaik ( http://richard.cyganiak.de/ )
 for the D2R server project ( http://www4.wiwiss.fu-berlin.de/bizer/d2r-server/ ). 
-This fork of SNORQL is a modified version of [kurtjx's version](https://github.com/kurtjx/SNORQL). 
+This fork of SNORQL is a modified version of kurtjx's version (https://github.com/kurtjx/SNORQL). 
 The modifications are to make it an up-to-date copy of SNORQL run with dbpedia (http://dbpedia.org/snorql).
 
 SNORQL can be used with just about any SPARQL endpoint that supports JSON. To
